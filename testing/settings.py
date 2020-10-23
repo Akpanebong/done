@@ -25,7 +25,7 @@ SECRET_KEY = 'x%xtbpl2t0&sn3!eh43qop@r1qm$gry(mc&$iyb=$%*8)e1i_^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['craf.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['ccraf.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
